@@ -1,0 +1,11 @@
+package de.stfsy.twitter.jdk.fourteen;
+
+public class BlockHolder {
+
+    public static final String BLOCK = """
+        Line 1
+            Line 2
+                Line 3
+                    Line 4
+    """;
+}
